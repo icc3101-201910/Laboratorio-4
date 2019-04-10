@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2019-01-Laboratorio-4", "2019-01-Laboratorio-4.csproj", "{30E93977-6CDE-431A-A238-BCA7459937E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30E93977-6CDE-431A-A238-BCA7459937E6}.Debug|x86.ActiveCfg = Debug|x86
+		{30E93977-6CDE-431A-A238-BCA7459937E6}.Debug|x86.Build.0 = Debug|x86
+		{30E93977-6CDE-431A-A238-BCA7459937E6}.Release|x86.ActiveCfg = Release|x86
+		{30E93977-6CDE-431A-A238-BCA7459937E6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
