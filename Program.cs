@@ -27,12 +27,15 @@ namespace Laboratorio4
 
             while (true)
             {
-                Console.WriteLine("Selecciona una opción:");
+                Console.WriteLine("");
                 Console.WriteLine($"Hora actual: {hora} con {minutos} minutos");
+                Console.WriteLine("");
+                Console.WriteLine("Selecciona una opción:");
                 Console.WriteLine("[1] Configurar Hora");
                 Console.WriteLine("[2] Cobrar");
                 Console.WriteLine("[3] Mostrar Saldo");
                 Console.WriteLine("[4] Cerrar Programa");
+                Console.WriteLine("");
                 string opcion = Console.ReadLine();
 
                 if (opcion == "1") {
